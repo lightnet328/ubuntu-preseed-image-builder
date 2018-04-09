@@ -1,0 +1,4 @@
+*.iso
+preseed.cfg
+*env.yml
+*env.secret.yml
